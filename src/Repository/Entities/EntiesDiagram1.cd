@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Repository.RickandMorty">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RickandMorty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository.MortyEntity">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\MortyEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository.NavigationEntity">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAAAAAAAAAAACAABAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\NavigationEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository.RickHistoricEntity">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Entities\RickHistoricEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository.RickEntity">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAACAAAAAAA=</HashCode>
+      <FileName>Entities\RickEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
