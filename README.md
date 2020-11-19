@@ -15,7 +15,7 @@ Passo a passo:
     SqlLocalDb create RickLocalizationDB
 
 - No visual studio, entrar em Ferramentas > Gerenciador de pacotes nuget > Console
-  Em projeto padrão, selecionar <Repository>
+  Em projeto padrão, selecionar "Repository"
     Digitar o seguinte comando:
       Update-Database 
       OBS: caso dê erro, tente entrar na conexao(SQL Server) e executar a seguinte linha: create database RickLocalizationDB
