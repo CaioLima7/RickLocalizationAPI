@@ -5,7 +5,7 @@
 bibs .net standard 2.1
 
 
-Repository, Disposable, xUnit
+Repository, Disposable, xUnit, EF CORE(code first), Swagger
 
 
 Passo a passo:
